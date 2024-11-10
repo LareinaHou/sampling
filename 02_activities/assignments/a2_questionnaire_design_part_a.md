@@ -17,15 +17,21 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 # Your Changes
 
 The number of your chosen topic: `#`
-
+1
 Describe the purpose of your survey:
 ```
 write your answer here...
+The purpose of this survey is to identify the key factors contribute to high turnover rate among the entry- and lower-level positions within the company. And what strategy can be made to improve the situation.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
 write your answer here...
+
+Target population: All entry- and lower-level employees
+Sampling frame: Company's employee database that includes all entry- and lower-level employees' contact information, team structure, title, and other job details.
+Sampling units: Individual entry- and lower-level employees
+Observational units: Same individual entry- and lower-level employees who take survey.
 ```
 
 Your 5-10 question survey:
@@ -41,6 +47,15 @@ Your 5-10 question survey:
 9. write your question here... (optional)
 10. write your question here... (optional)
 ```
+
+1. Age: Under 25 , 25-40, 40-55, 55+
+2. Gender: Male, Female, Prefer not to say
+3. Department: Operation, Finance, HR, IT, Compliance, Reporting
+4. Job level: Entry-level, Lower-level, Mid-level, Senior-level
+5. How satisfied are you with your current role? (please choose 1 to 5. 5 is Very satisfied, 1 is Very Dissatisfied)? 
+6. How satisfied are you with your current compensation? (please choose 1 to 5. 5 is Very satisfied, 1 is Very Dissatisfied)? 
+7. How supportive do you find your line supervisor/manager? (please choose 1 to 5. 5 is Extremely Supportive, 1 is Not at all supportive)
+
 
 ## Rubric
 
