@@ -15,7 +15,23 @@ Alter the code so that it is reproducible. Describe the changes you made to the 
 ```
 Please write your explanation here...
 
-```
+Reducing the number of repetitions in the simulation create more variations and randomness in the results, that would impact reproducibility. 
+
+In order to ensure reporducibility, we need to set a random seed at the beginning of the simulation:
+
+import random 
+# Set random seed for reproducibility 
+
+np.random.seed(123) 
+random.seed(123)
+
+
+# Run the simulation 1000 times
+results = [simulate_event(m) for m in range(1000)]
+props_df = pd.DataFrame(results, columns=["Infections", "Traces"])
+
+
+The reason using a fixed random seed is to have the simulation have the same starting point for generating ta sequency of random numbers. Though the numbers shows random, they all derived from the initial seed value. All in all, it would ensure the consistency and let the results be replicated by others
 
 
 ## Criteria
