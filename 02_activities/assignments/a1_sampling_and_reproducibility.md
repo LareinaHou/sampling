@@ -15,6 +15,30 @@ Alter the code so that it is reproducible. Describe the changes you made to the 
 ```
 Please write your explanation here...
 
+Andrew Whitby’ post discusses the potential biases in COVID-19 contact tracing data, showing that easily traceable events (e.g. weddings) are likely overrepresented in contact tracing statistics compared to hardly traceable events (e.g. brunches).
+The model has below 3 stages that sampling occurs:
+1.	Infection sampling
+Function: simulate_event()
+Procedure: Binomial distribution to generate random number of infected individuals
+Sample size: Total number of attendant people in one event
+Sampling Frame: All people attend weddings and brunches.
+Underlying Distribution: Binomial distribution.
+
+2.	Primary Contact Tracing
+Function: simulate_event()
+Procedure: Binomial distribution to find which infected person get traced
+Sample size: infected people
+Sampling Frame: All infected people
+Underlying Distribution: Binomial distribution
+
+3.	Secondary Contact Tracing
+Function: simulate_event()
+Procedure: based on primary contact tracing result to get conditional result
+Sample size: Events with at least two traced infections.
+Sampling Frame: All events.
+Underlying Distribution: hardly to show, the result base on primary contract tracing
+
+
 Reducing the number of repetitions in the simulation create more variations and randomness in the results, that would impact reproducibility. 
 
 In order to ensure reporducibility, we need to set a random seed at the beginning of the simulation:
