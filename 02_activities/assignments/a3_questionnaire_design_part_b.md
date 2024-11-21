@@ -6,18 +6,44 @@
     ```
     write your answer here...
     ```
+    The quality of my sample just be okay, I would expect it to represent opinions of the partial target population. 
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
     ```
     write your answer here...
     ```
+    Yes.
+
+Original survey:
+1. Age: Under 25 , 25-40, 40-55, 55+
+2. Gender: Male, Female, Prefer not to say
+3. Department: Operation, Finance, HR, IT, Compliance, Reporting
+4. Job level: Entry-level, Lower-level, Mid-level, Senior-level
+5. How satisfied are you with your current role? (please choose 1 to 5. 5 is Very satisfied, 1 is Very Dissatisfied)? 
+6. How satisfied are you with your current compensation? (please choose 1 to 5. 5 is Very satisfied, 1 is Very Dissatisfied)? 
+7. How supportive do you find your line supervisor/manager? (please choose 1 to 5. 5 is Extremely Supportive, 1 is Not at all supportive)
+
+Updated survey:
+1. Age: Under 25 , 25-34, 35-44, 45-54, 55+
+2. Gender: Male, Female, Non-binary, Prefer not to say
+3. Department: Operation, Finance, HR, IT, Compliance, Reporting, Other (please specify)
+4. Job level: Entry-level, Lower-level, Mid-level, Senior-level
+5. How satisfied are you with your current role? (please choose 1 to 5. 5 is Very satisfied, 1 is Very Dissatisfied)? 
+6. How satisfied are you with your current compensation? (please choose 1 to 5. 5 is Very satisfied, 1 is Very Dissatisfied)? 
+7. How satisfied are you with your benefits package? (please choose 1 to 5. 5 is Very satisfied, 1 is Very Dissatisfied)? 
+8. How supportive do you find your line supervisor/manager? (please choose 1 to 5. 5 is Extremely Supportive, 1 is Not at all supportive)
+9. Please provide any additional comments or suggestions to improve employee satisfaction and retention.
+
+Updates in new survey: Expanded Age and Gender Options to have more diverse range, have 1 more department options to ensure the accuracy, More detailed questions added to capture responses, leave open ended questions to ensure the blank part that survey not including.
+
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
     write your answer here...
     ```
+    Yes, but the observational study would show limitation. The observational study would lack direct feedback that can be provided by survery. Moreover, the continuous monitoring would raising employees concern regarding workplace ethic and privacy. Last, it might not capture few factors like personal reason or job-hooping etc where it hard to be observed.
 
 ## Why am I doing this assignment?
 
