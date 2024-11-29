@@ -6,7 +6,7 @@
     ```
     write your answer here...
     ```
-    The quality of my sample just be okay, I would expect it to represent opinions of the partial target population. 
+    The quality of my sample just be okay, but it might not be representative of your target population.  The target population might not be fully diversified (e.g., age, department, etc.). and if certain groups are underrepresented (e.g., not enough responses from a particular department or job level), or if there are significant biases in who choose to respond, then the sample might not accurately represent target population. 
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
@@ -43,7 +43,7 @@ Updates in new survey: Expanded Age and Gender Options to have more diverse rang
     ```
     write your answer here...
     ```
-    Yes, but the observational study would show limitation. The observational study would lack direct feedback that can be provided by survery. Moreover, the continuous monitoring would raising employees concern regarding workplace ethic and privacy. Last, it might not capture few factors like personal reason or job-hooping etc where it hard to be observed.
+    Yes, but the observational study would show limitation. The survey directly asks participants about their satisfaction levels, compensation satisfaction, and support from supervisors. This direct feedback is critical for understanding personal and subjective experiences. While the observational study involves monitoring and recording behaviors or conditions without direct interaction which would lack direct feedback. Moreover, continuous monitoring would raise employees’ concern regarding workplace ethics and privacy. Employees may feel their personal space is being invaded, leading to discomfort and anxiety. It also can erode trust between employees and employers, as it might imply a lack of trust in employees’ ability to manage their own work. Continuous surveillance might stifle creativity and discourage employees from taking risks or thinking outside the box. Last, it might not capture a few factors like personal reasons or job-hopping etc., where it is hard to observe. Feelings of support, job satisfaction, and compensation satisfaction are subjective experiences that require direct input from employees. Observations can provide indirect indicators but not subjective insights. And it cannot effectively capture subjective experiences or satisfaction levels since these are internal states that require self-reporting.
 
 ## Why am I doing this assignment?
 
